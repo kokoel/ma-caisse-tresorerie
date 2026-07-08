@@ -1,0 +1,16 @@
+{
+  "name": "atelier-whatsapp-bot",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Bot WhatsApp de réponse automatique pour Atelier Manager (Baileys)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "pino": "^9.4.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

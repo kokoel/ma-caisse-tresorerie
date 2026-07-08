@@ -1,0 +1,13 @@
+{
+  "nomAtelier": "Mon Atelier",
+  "messageBienvenue": "Bonjour et merci de nous avoir contacté 🍰 ! Je suis le répondeur automatique de {nomAtelier}. Un membre de l'équipe vous répondra dès que possible.",
+  "horairesOuverture": "Nous sommes ouverts du lundi au samedi, de 8h à 19h.",
+  "messageHorsHoraires": "Nous sommes actuellement fermés. {horaires} Votre message a bien été reçu, nous vous répondrons dès la réouverture.",
+  "heureOuverture": 8,
+  "heureFermeture": 19,
+  "delaiEntreReponsesMinutes": 60,
+  "menu": [
+    "Gâteau chocolat (part) — voir tarifs sur demande",
+    "Cupcakes (unité) — voir tarifs sur demande"
+  ]
+}
